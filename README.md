@@ -1,0 +1,4 @@
+vending.inc
+===========
+
+OnPlayerUseVending
